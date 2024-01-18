@@ -1,0 +1,6 @@
+Username: admin@yourstore.com
+password: admin
+Login button:na
+unm1://input[@class="email valid"]
+pwd1://input[@name="Password"]
+button1://button[@class="button-1 login-button"]
